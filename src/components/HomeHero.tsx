@@ -16,14 +16,14 @@ export function HomeHero() {
           <span className="text-[10px] text-white uppercase tracking-widest font-medium">MetricStack 2.0 is live</span>
         </div>
         <h1 className={`text-6xl md:text-8xl text-white tracking-tighter leading-[1.05] mb-8 ${heroFont.className}`}>
-          The truth engine for SaaS revenue.
+          The true engine for SaaS revenue.
         </h1>
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
           <Link href="/signup" className="px-8 py-4 bg-[#ccff00] text-black rounded-full font-medium text-lg hover:bg-[#b3e600] transition-colors w-full sm:w-auto">
-            Start free trial
+            Start free
           </Link>
           <Link href="/" className="px-8 py-4 bg-transparent border border-white/20 text-white rounded-full font-medium text-lg hover:bg-white/5 transition-colors w-full sm:w-auto">
-            Explore product
+            Explore products
           </Link>
         </div>
       </div>
