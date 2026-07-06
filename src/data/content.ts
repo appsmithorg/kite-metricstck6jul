@@ -16,7 +16,7 @@ export const productShowcase = [
     description: "Predict future MRR based on historical growth and churn velocity."
   },
   {
-    title: "Custom Reports",
+    title: "Customised Reports",
     description: "Build bespoke dashboards with our drag-and-drop metrics builder."
   }
 ];

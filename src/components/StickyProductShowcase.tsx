@@ -51,9 +51,9 @@ export function StickyProductShowcase() {
               </div>
             </div>
             
-            {/* Custom Reports */}
+            {/* Customised Reports */}
             <div className="bg-[#111] border border-white/10 rounded-2xl p-6 flex flex-col h-[320px]">
-              <div className={`text-white font-medium text-lg tracking-tight mb-1 ${headingFont.className}`}>Custom Reports</div>
+              <div className={`text-white font-medium text-lg tracking-tight mb-1 ${headingFont.className}`}>Customised Reports</div>
               <div className="text-xs text-gray-500 mb-8 uppercase tracking-widest">Drag & Drop</div>
               <div className="flex-1 flex flex-col gap-3">
                 <div className="bg-[#1a1a1a] border border-white/5 rounded-lg p-4 flex justify-between items-center">
