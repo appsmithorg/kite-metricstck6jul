@@ -3,7 +3,7 @@ export const siteName = "MetricStack";
 export const stats = [
   { label: "Data processed daily", value: "2.4PB" },
   { label: "Uptime SLA", value: "99.99%" },
-  { label: "Global customers", value: "10,000+" }
+  { label: "Global customers", value: "13,000+" }
 ];
 
 export const productShowcase = [
