@@ -16,7 +16,7 @@ export function StickyProductShowcase() {
           {/* Full width card: Cohort Analysis */}
           <div className="bg-[#111] border border-white/10 rounded-2xl p-8 flex flex-col gap-6">
             <div className="flex justify-between items-center mb-4">
-              <div className={`text-white font-medium text-lg tracking-tight ${headingFont.className}`}>Cohort Retention</div>
+              <div className={`text-white font-medium text-lg tracking-tight ${headingFont.className}`}>Cohort Retention Ideas</div>
               <div className="text-xs text-gray-500 uppercase tracking-widest">Month 1-6</div>
             </div>
             <div className="grid grid-cols-6 gap-2">
