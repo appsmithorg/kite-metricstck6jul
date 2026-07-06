@@ -6,7 +6,7 @@ export function StickyProductShowcase() {
       <div className="max-w-7xl mx-auto grid md:grid-cols-12 gap-16 items-start">
         <div className="md:col-span-5 md:sticky md:top-32">
           <h2 className={`text-4xl md:text-5xl text-white tracking-tighter leading-[1.1] mb-6 ${headingFont.className}`}>
-            Unprecedented clarity into your revenue engine.
+            Superb clarity into your revenue engine.
           </h2>
           <p className={`text-gray-400 text-lg leading-relaxed ${bodyFont.className}`}>
             Stop wrestling with spreadsheets. MetricStack automatically normalizes your billing data into boardroom-ready insights, cohorts, and forecasts.
