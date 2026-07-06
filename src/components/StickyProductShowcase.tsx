@@ -6,7 +6,7 @@ export function StickyProductShowcase() {
       <div className="max-w-7xl mx-auto grid md:grid-cols-12 gap-16 items-start">
         <div className="md:col-span-5 md:sticky md:top-32">
           <h2 className={`text-4xl md:text-5xl text-white tracking-tighter leading-[1.1] mb-6 ${headingFont.className}`}>
-            Superb clarity into your revenue engine.
+            Unprecedented clarity into your revenue engine.
           </h2>
           <p className={`text-gray-400 text-lg leading-relaxed ${bodyFont.className}`}>
             Stop wrestling with spreadsheets. MetricStack automatically normalizes your billing data into boardroom-ready insights, cohorts, and forecasts.
@@ -16,7 +16,7 @@ export function StickyProductShowcase() {
           {/* Full width card: Cohort Analysis */}
           <div className="bg-[#111] border border-white/10 rounded-2xl p-8 flex flex-col gap-6">
             <div className="flex justify-between items-center mb-4">
-              <div className={`text-white font-medium text-lg tracking-tight ${headingFont.className}`}>Cohort Retention Ideas</div>
+              <div className={`text-white font-medium text-lg tracking-tight ${headingFont.className}`}>Cohort Retention</div>
               <div className="text-xs text-gray-500 uppercase tracking-widest">Month 1-6</div>
             </div>
             <div className="grid grid-cols-6 gap-2">
@@ -41,7 +41,7 @@ export function StickyProductShowcase() {
           <div className="grid md:grid-cols-2 gap-8">
             {/* Revenue Forecasting */}
             <div className="bg-[#111] border border-white/10 rounded-2xl p-6 flex flex-col h-[320px]">
-              <div className={`text-white font-medium text-lg tracking-tight mb-1 ${headingFont.className}`}>Revenue Forecast</div>
+              <div className={`text-white font-medium text-lg tracking-tight mb-1 ${headingFont.className}`}>Revenue Forecasting</div>
               <div className="text-xs text-gray-500 mb-8 uppercase tracking-widest">Q4 Projection</div>
               <div className="flex-1 relative border-b border-l border-white/10 mb-4">
                 <svg className="absolute inset-0 w-full h-full" preserveAspectRatio="none" viewBox="0 0 100 100">
@@ -51,9 +51,9 @@ export function StickyProductShowcase() {
               </div>
             </div>
             
-            {/* Customised Reports */}
+            {/* Custom Reports */}
             <div className="bg-[#111] border border-white/10 rounded-2xl p-6 flex flex-col h-[320px]">
-              <div className={`text-white font-medium text-lg tracking-tight mb-1 ${headingFont.className}`}>Customised Reports</div>
+              <div className={`text-white font-medium text-lg tracking-tight mb-1 ${headingFont.className}`}>Custom Reports</div>
               <div className="text-xs text-gray-500 mb-8 uppercase tracking-widest">Drag & Drop</div>
               <div className="flex-1 flex flex-col gap-3">
                 <div className="bg-[#1a1a1a] border border-white/5 rounded-lg p-4 flex justify-between items-center">
