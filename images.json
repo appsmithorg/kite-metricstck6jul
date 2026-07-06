@@ -1,0 +1,74 @@
+[
+  {
+    "slug": "iter1-metricstack-logo",
+    "prompt": "Wordmark logo for 'MetricStack', geometric sans-serif typography, pure neon yellow-green text, solid black background. Clean, ultra-modern SaaS brand identity. Image fills the entire frame edge-to-edge with no borders, frames, or rounded corners.",
+    "aspect_ratio": "21:9",
+    "is_logo": true
+  },
+  {
+    "slug": "iter1-home-hero-planet",
+    "prompt": "Massive high-fidelity 3D render of a dark planetary body partially illuminated by a vibrant neon yellow-green rim light, set against absolute pure black space. Surgical, clean, sophisticated cosmic-tech atmosphere, generous negative space for UI overlay. background, 3D render, wide straight-on, center placement, 16:9, full-bleed, dramatic. Image fills the entire frame edge-to-edge with no borders, frames, or rounded corners. Do not include any text, words, letters, numbers, or watermarks in the image.",
+    "aspect_ratio": "16:9",
+    "is_logo": false
+  },
+  {
+    "slug": "iter1-about-hero-particles",
+    "prompt": "Immersive 3D particle plexus cloud in deep space, featuring ultra-crisp semi-transparent white and neon yellow-green glowing nodes connected by thin luminous lines, set against absolute pure black. High-contrast cosmic-tech aesthetic, vast and cinematic with calm negative space. background, 3D render, wide straight-on, center placement, 16:9, full-bleed, cool. Image fills the entire frame edge-to-edge with no borders, frames, or rounded corners. Do not include any text, words, letters, numbers, or watermarks in the image.",
+    "aspect_ratio": "16:9",
+    "is_logo": false
+  },
+  {
+    "slug": "iter1-blog-hero-stars",
+    "prompt": "Vast cinematic starfield with subtle deep-space depth, featuring pristine pinpoints of white and faint neon yellow-green light against absolute pure black. Surgical, sophisticated high-contrast cosmic-tech atmosphere, highly breathable with maximum negative space. background, 3D render, wide straight-on, center placement, 16:9, full-bleed, dark. Image fills the entire frame edge-to-edge with no borders, frames, or rounded corners. Do not include any text, words, letters, numbers, or watermarks in the image.",
+    "aspect_ratio": "16:9",
+    "is_logo": false
+  },
+  {
+    "slug": "iter1-testimonial-portrait",
+    "prompt": "Sarah Jenkins, woman in her 40s. Close-up portrait of a confident tech executive, dramatically lit with darkroom studio logic, cool-toned and desaturated to blend with a stark black environment. Subtle neon yellow-green rim light on the edge of her silhouette, pure black background, premium editorial photography. portrait, realistic photography, eye-level close-up, center placement, 3:4, contained, dramatic. Image fills the entire frame edge-to-edge with no borders, frames, or rounded corners. Do not include any text, words, letters, numbers, or watermarks in the image.",
+    "aspect_ratio": "3:4",
+    "is_logo": false
+  },
+  {
+    "slug": "iter1-leader-1",
+    "prompt": "David Chen, man in his 30s. Editorial portrait of a SaaS founder, cool-toned and desaturated, lit with a single stark white key light and a faint neon yellow-green rim light. Pure black background, sophisticated high-contrast tech aesthetic. portrait, realistic photography, eye-level close-up, center placement, 3:4, contained, dramatic. Image fills the entire frame edge-to-edge with no borders, frames, or rounded corners. Do not include any text, words, letters, numbers, or watermarks in the image.",
+    "aspect_ratio": "3:4",
+    "is_logo": false
+  },
+  {
+    "slug": "iter1-leader-2",
+    "prompt": "Elena Rodriguez, woman in her 30s. Editorial portrait of a product leader, cool-toned and desaturated, lit with a single stark white key light and a faint neon yellow-green rim light. Pure black background, sophisticated high-contrast tech aesthetic. portrait, realistic photography, eye-level close-up, center placement, 3:4, contained, dramatic. Image fills the entire frame edge-to-edge with no borders, frames, or rounded corners. Do not include any text, words, letters, numbers, or watermarks in the image.",
+    "aspect_ratio": "3:4",
+    "is_logo": false
+  },
+  {
+    "slug": "iter1-leader-3",
+    "prompt": "Marcus Webb, man in his 40s. Editorial portrait of an engineering director, cool-toned and desaturated, lit with a single stark white key light and a faint neon yellow-green rim light. Pure black background, sophisticated high-contrast tech aesthetic. portrait, realistic photography, eye-level close-up, center placement, 3:4, contained, dramatic. Image fills the entire frame edge-to-edge with no borders, frames, or rounded corners. Do not include any text, words, letters, numbers, or watermarks in the image.",
+    "aspect_ratio": "3:4",
+    "is_logo": false
+  },
+  {
+    "slug": "iter1-blog-thumb-1",
+    "prompt": "Abstract 3D render of geometric glass-like planes intersecting in a void, illuminated by a sharp neon yellow-green laser line against pure black. High-contrast cosmic-tech aesthetic, surgical and clean. supporting, 3D render, eye-level 3/4, center placement, 16:9, contained, cool. Image fills the entire frame edge-to-edge with no borders, frames, or rounded corners. Do not include any text, words, letters, numbers, or watermarks in the image.",
+    "aspect_ratio": "16:9",
+    "is_logo": false
+  },
+  {
+    "slug": "iter1-blog-thumb-2",
+    "prompt": "Macro photography of a dark matte metallic surface with a single glowing neon yellow-green fiber optic thread resting on it. Deep black shadows, ultra-premium tech aesthetic, high-contrast lighting. supporting, realistic photography, top-down close-up, center placement, 16:9, contained, dark. Image fills the entire frame edge-to-edge with no borders, frames, or rounded corners. Do not include any text, words, letters, numbers, or watermarks in the image.",
+    "aspect_ratio": "16:9",
+    "is_logo": false
+  },
+  {
+    "slug": "iter1-blog-thumb-3",
+    "prompt": "Abstract data visualization concept showing a topographical 3D mesh of glowing white and neon yellow-green dots floating in absolute pure black space. Cinematic depth of field, high-contrast cosmic-tech aesthetic. supporting, 3D render, wide straight-on, center placement, 16:9, contained, vibrant. Image fills the entire frame edge-to-edge with no borders, frames, or rounded corners. Do not include any text, words, letters, numbers, or watermarks in the image.",
+    "aspect_ratio": "16:9",
+    "is_logo": false
+  },
+  {
+    "slug": "iter1-article-hero",
+    "prompt": "Massive abstract 3D render of a monolithic dark structure emitting a subtle neon yellow-green glow from its core, set against absolute pure black space. High-contrast cosmic-tech aesthetic, surgical and clean. background, 3D render, wide straight-on, center placement, 21:9, full-bleed, dramatic. Image fills the entire frame edge-to-edge with no borders, frames, or rounded corners. Do not include any text, words, letters, numbers, or watermarks in the image.",
+    "aspect_ratio": "21:9",
+    "is_logo": false
+  }
+]

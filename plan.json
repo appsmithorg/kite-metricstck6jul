@@ -1,0 +1,290 @@
+{
+  "files": [
+    {
+      "path": "src/app/page.tsx",
+      "purpose": "home route; renders HomeHero, LogoTicker, SocialProof, StickyProductShowcase, VisualFeatures, AvatarGrid, ModularFeatures, IntegrationMarquee, TestimonialSlider, Pricing, Faq, BlogTeaser, Footer",
+      "images": []
+    },
+    {
+      "path": "src/app/about/page.tsx",
+      "purpose": "about route; renders AboutHero, ValuesGrid, StickyTimeline, LeadershipSequence, Footer",
+      "images": []
+    },
+    {
+      "path": "src/app/blog/page.tsx",
+      "purpose": "blog index route; renders BlogHero, ArticleGrid, Footer",
+      "images": []
+    },
+    {
+      "path": "src/app/blog/[slug]/page.tsx",
+      "purpose": "blog article route; renders ArticleHeader, ArticleContent, RelatedArticles, Footer",
+      "images": []
+    },
+    {
+      "path": "src/app/signup/page.tsx",
+      "purpose": "signup route; renders SignupForm, Footer",
+      "images": []
+    },
+    {
+      "path": "src/app/not-found.tsx",
+      "purpose": "404 error route; renders NotFoundHero, Footer",
+      "images": []
+    },
+    {
+      "path": "src/app/sitemap.ts",
+      "purpose": "generates sitemap.xml for all routes",
+      "images": []
+    },
+    {
+      "path": "src/components/FloatingBadge.tsx",
+      "purpose": "persistent floating action button in the bottom right corner for global conversion",
+      "images": []
+    },
+    {
+      "path": "src/components/Footer.tsx",
+      "purpose": "global footer assembly with massive CTA heading, structured links, and brand logo",
+      "images": [
+        "iter1-metricstack-logo"
+      ]
+    },
+    {
+      "path": "src/components/HomeHero.tsx",
+      "purpose": "immersive hero section with 3D planet background, overline pill, massive typography, and HTML/CSS dashboard preview",
+      "images": [
+        "iter1-home-hero-planet"
+      ]
+    },
+    {
+      "path": "src/components/LogoTicker.tsx",
+      "purpose": "continuous infinite marquee of customer wordmarks",
+      "images": []
+    },
+    {
+      "path": "src/components/SocialProof.tsx",
+      "purpose": "asymmetrical layout with large descriptive text, quote card, and numeric stat cards",
+      "images": []
+    },
+    {
+      "path": "src/components/StickyProductShowcase.tsx",
+      "purpose": "sticky right-scroll choreography section with pinned left text and scrolling right HTML/CSS UI cards for cohort analysis, revenue forecasting, and custom reports",
+      "images": []
+    },
+    {
+      "path": "src/components/VisualFeatures.tsx",
+      "purpose": "2-column grid of dark grey feature cards with 1px borders and HTML/CSS UI accents",
+      "images": []
+    },
+    {
+      "path": "src/components/AvatarGrid.tsx",
+      "purpose": "dense high-capacity flex-wrap grid of small circular CSS-styled initials for social proof",
+      "images": []
+    },
+    {
+      "path": "src/components/ModularFeatures.tsx",
+      "purpose": "3-column grid of feature cards with glowing neon wireframe icons and micro-stagger entrances",
+      "images": []
+    },
+    {
+      "path": "src/components/IntegrationMarquee.tsx",
+      "purpose": "continuous marquee displaying Stripe, Paddle, and Chargebee integrations as wordmark chips and CSS connectors",
+      "images": []
+    },
+    {
+      "path": "src/components/TestimonialSlider.tsx",
+      "purpose": "50/50 split testimonial slider using Embla, featuring a massive portrait and neon-tinted star ratings",
+      "images": [
+        "iter1-testimonial-portrait"
+      ]
+    },
+    {
+      "path": "src/components/Pricing.tsx",
+      "purpose": "pricing comparison with monthly/yearly toggle and polarity-inverted neon enterprise tier",
+      "images": []
+    },
+    {
+      "path": "src/components/Faq.tsx",
+      "purpose": "accordion list of frequently asked questions with clean 1px borders",
+      "images": []
+    },
+    {
+      "path": "src/components/BlogTeaser.tsx",
+      "purpose": "grid of latest blog articles with large thumbnails and author pills",
+      "images": [
+        "iter1-blog-thumb-1",
+        "iter1-blog-thumb-2",
+        "iter1-blog-thumb-3"
+      ]
+    },
+    {
+      "path": "src/components/AboutHero.tsx",
+      "purpose": "immersive hero section with 3D particle plexus background and massive typography",
+      "images": [
+        "iter1-about-hero-particles"
+      ]
+    },
+    {
+      "path": "src/components/ValuesGrid.tsx",
+      "purpose": "grid of company values with dark surface cards and neon accents",
+      "images": []
+    },
+    {
+      "path": "src/components/StickyTimeline.tsx",
+      "purpose": "2-column split with pinned left heading and vertically scrolling chronological text blocks",
+      "images": []
+    },
+    {
+      "path": "src/components/LeadershipSequence.tsx",
+      "purpose": "scroll-linked state swap introducing key team members with pinned left list and cross-fading right portraits",
+      "images": [
+        "iter1-leader-1",
+        "iter1-leader-2",
+        "iter1-leader-3"
+      ]
+    },
+    {
+      "path": "src/components/BlogHero.tsx",
+      "purpose": "immersive hero section with cinematic starfield background for the blog index",
+      "images": [
+        "iter1-blog-hero-stars"
+      ]
+    },
+    {
+      "path": "src/components/ArticleGrid.tsx",
+      "purpose": "multi-column grid of all blog articles with thumbnails and metadata",
+      "images": [
+        "iter1-blog-thumb-1",
+        "iter1-blog-thumb-2",
+        "iter1-blog-thumb-3"
+      ]
+    },
+    {
+      "path": "src/components/ArticleHeader.tsx",
+      "purpose": "massive centered article title followed by an edge-to-edge landscape hero image",
+      "images": [
+        "iter1-article-hero"
+      ]
+    },
+    {
+      "path": "src/components/ArticleContent.tsx",
+      "purpose": "single-column narrow-measure reading block for optimal line length",
+      "images": []
+    },
+    {
+      "path": "src/components/RelatedArticles.tsx",
+      "purpose": "grid of related articles displayed at the bottom of a blog post",
+      "images": [
+        "iter1-blog-thumb-1",
+        "iter1-blog-thumb-2"
+      ]
+    },
+    {
+      "path": "src/components/SignupForm.tsx",
+      "purpose": "standalone conversion-focused signup form with neon accent button and dark minimal aesthetic",
+      "images": []
+    },
+    {
+      "path": "src/components/NotFoundHero.tsx",
+      "purpose": "oversized 404 typography overlapping the 3D planetary graphic",
+      "images": [
+        "iter1-home-hero-planet"
+      ]
+    },
+    {
+      "path": "src/data/content.ts",
+      "purpose": "centralized data module exporting chapters, pricing, testimonials, leadership, and blog posts",
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "slug": "iter1-metricstack-logo",
+      "prompt": "Wordmark logo for 'MetricStack', geometric sans-serif typography, pure neon yellow-green text, solid black background. Clean, ultra-modern SaaS brand identity. Image fills the entire frame edge-to-edge with no borders, frames, or rounded corners.",
+      "aspect_ratio": "21:9",
+      "is_logo": true,
+      "url": "https://static.kite.ai/image/upload/app/b12484dd-3f8d-4153-82f4-9d2296905e6f/iter1/iter1-metricstack-logo.png"
+    },
+    {
+      "slug": "iter1-home-hero-planet",
+      "prompt": "Massive high-fidelity 3D render of a dark planetary body partially illuminated by a vibrant neon yellow-green rim light, set against absolute pure black space. Surgical, clean, sophisticated cosmic-tech atmosphere, generous negative space for UI overlay. background, 3D render, wide straight-on, center placement, 16:9, full-bleed, dramatic. Image fills the entire frame edge-to-edge with no borders, frames, or rounded corners. Do not include any text, words, letters, numbers, or watermarks in the image.",
+      "aspect_ratio": "16:9",
+      "is_logo": false,
+      "url": "https://static.kite.ai/image/upload/app/b12484dd-3f8d-4153-82f4-9d2296905e6f/iter1/iter1-home-hero-planet.png"
+    },
+    {
+      "slug": "iter1-about-hero-particles",
+      "prompt": "Immersive 3D particle plexus cloud in deep space, featuring ultra-crisp semi-transparent white and neon yellow-green glowing nodes connected by thin luminous lines, set against absolute pure black. High-contrast cosmic-tech aesthetic, vast and cinematic with calm negative space. background, 3D render, wide straight-on, center placement, 16:9, full-bleed, cool. Image fills the entire frame edge-to-edge with no borders, frames, or rounded corners. Do not include any text, words, letters, numbers, or watermarks in the image.",
+      "aspect_ratio": "16:9",
+      "is_logo": false,
+      "url": "https://static.kite.ai/image/upload/app/b12484dd-3f8d-4153-82f4-9d2296905e6f/iter1/iter1-about-hero-particles.png"
+    },
+    {
+      "slug": "iter1-blog-hero-stars",
+      "prompt": "Vast cinematic starfield with subtle deep-space depth, featuring pristine pinpoints of white and faint neon yellow-green light against absolute pure black. Surgical, sophisticated high-contrast cosmic-tech atmosphere, highly breathable with maximum negative space. background, 3D render, wide straight-on, center placement, 16:9, full-bleed, dark. Image fills the entire frame edge-to-edge with no borders, frames, or rounded corners. Do not include any text, words, letters, numbers, or watermarks in the image.",
+      "aspect_ratio": "16:9",
+      "is_logo": false,
+      "url": "https://static.kite.ai/image/upload/app/b12484dd-3f8d-4153-82f4-9d2296905e6f/iter1/iter1-blog-hero-stars.png"
+    },
+    {
+      "slug": "iter1-testimonial-portrait",
+      "prompt": "Sarah Jenkins, woman in her 40s. Close-up portrait of a confident tech executive, dramatically lit with darkroom studio logic, cool-toned and desaturated to blend with a stark black environment. Subtle neon yellow-green rim light on the edge of her silhouette, pure black background, premium editorial photography. portrait, realistic photography, eye-level close-up, center placement, 3:4, contained, dramatic. Image fills the entire frame edge-to-edge with no borders, frames, or rounded corners. Do not include any text, words, letters, numbers, or watermarks in the image.",
+      "aspect_ratio": "3:4",
+      "is_logo": false,
+      "url": "https://static.kite.ai/image/upload/app/b12484dd-3f8d-4153-82f4-9d2296905e6f/iter1/iter1-testimonial-portrait.png"
+    },
+    {
+      "slug": "iter1-leader-1",
+      "prompt": "David Chen, man in his 30s. Editorial portrait of a SaaS founder, cool-toned and desaturated, lit with a single stark white key light and a faint neon yellow-green rim light. Pure black background, sophisticated high-contrast tech aesthetic. portrait, realistic photography, eye-level close-up, center placement, 3:4, contained, dramatic. Image fills the entire frame edge-to-edge with no borders, frames, or rounded corners. Do not include any text, words, letters, numbers, or watermarks in the image.",
+      "aspect_ratio": "3:4",
+      "is_logo": false,
+      "url": "https://static.kite.ai/image/upload/app/b12484dd-3f8d-4153-82f4-9d2296905e6f/iter1/iter1-leader-1.png"
+    },
+    {
+      "slug": "iter1-leader-2",
+      "prompt": "Elena Rodriguez, woman in her 30s. Editorial portrait of a product leader, cool-toned and desaturated, lit with a single stark white key light and a faint neon yellow-green rim light. Pure black background, sophisticated high-contrast tech aesthetic. portrait, realistic photography, eye-level close-up, center placement, 3:4, contained, dramatic. Image fills the entire frame edge-to-edge with no borders, frames, or rounded corners. Do not include any text, words, letters, numbers, or watermarks in the image.",
+      "aspect_ratio": "3:4",
+      "is_logo": false,
+      "url": "https://static.kite.ai/image/upload/app/b12484dd-3f8d-4153-82f4-9d2296905e6f/iter1/iter1-leader-2.png"
+    },
+    {
+      "slug": "iter1-leader-3",
+      "prompt": "Marcus Webb, man in his 40s. Editorial portrait of an engineering director, cool-toned and desaturated, lit with a single stark white key light and a faint neon yellow-green rim light. Pure black background, sophisticated high-contrast tech aesthetic. portrait, realistic photography, eye-level close-up, center placement, 3:4, contained, dramatic. Image fills the entire frame edge-to-edge with no borders, frames, or rounded corners. Do not include any text, words, letters, numbers, or watermarks in the image.",
+      "aspect_ratio": "3:4",
+      "is_logo": false,
+      "url": "https://static.kite.ai/image/upload/app/b12484dd-3f8d-4153-82f4-9d2296905e6f/iter1/iter1-leader-3.png"
+    },
+    {
+      "slug": "iter1-blog-thumb-1",
+      "prompt": "Abstract 3D render of geometric glass-like planes intersecting in a void, illuminated by a sharp neon yellow-green laser line against pure black. High-contrast cosmic-tech aesthetic, surgical and clean. supporting, 3D render, eye-level 3/4, center placement, 16:9, contained, cool. Image fills the entire frame edge-to-edge with no borders, frames, or rounded corners. Do not include any text, words, letters, numbers, or watermarks in the image.",
+      "aspect_ratio": "16:9",
+      "is_logo": false,
+      "url": "https://static.kite.ai/image/upload/app/b12484dd-3f8d-4153-82f4-9d2296905e6f/iter1/iter1-blog-thumb-1.png"
+    },
+    {
+      "slug": "iter1-blog-thumb-2",
+      "prompt": "Macro photography of a dark matte metallic surface with a single glowing neon yellow-green fiber optic thread resting on it. Deep black shadows, ultra-premium tech aesthetic, high-contrast lighting. supporting, realistic photography, top-down close-up, center placement, 16:9, contained, dark. Image fills the entire frame edge-to-edge with no borders, frames, or rounded corners. Do not include any text, words, letters, numbers, or watermarks in the image.",
+      "aspect_ratio": "16:9",
+      "is_logo": false,
+      "url": "https://static.kite.ai/image/upload/app/b12484dd-3f8d-4153-82f4-9d2296905e6f/iter1/iter1-blog-thumb-2.png"
+    },
+    {
+      "slug": "iter1-blog-thumb-3",
+      "prompt": "Abstract data visualization concept showing a topographical 3D mesh of glowing white and neon yellow-green dots floating in absolute pure black space. Cinematic depth of field, high-contrast cosmic-tech aesthetic. supporting, 3D render, wide straight-on, center placement, 16:9, contained, vibrant. Image fills the entire frame edge-to-edge with no borders, frames, or rounded corners. Do not include any text, words, letters, numbers, or watermarks in the image.",
+      "aspect_ratio": "16:9",
+      "is_logo": false,
+      "url": "https://static.kite.ai/image/upload/app/b12484dd-3f8d-4153-82f4-9d2296905e6f/iter1/iter1-blog-thumb-3.png"
+    },
+    {
+      "slug": "iter1-article-hero",
+      "prompt": "Massive abstract 3D render of a monolithic dark structure emitting a subtle neon yellow-green glow from its core, set against absolute pure black space. High-contrast cosmic-tech aesthetic, surgical and clean. background, 3D render, wide straight-on, center placement, 21:9, full-bleed, dramatic. Image fills the entire frame edge-to-edge with no borders, frames, or rounded corners. Do not include any text, words, letters, numbers, or watermarks in the image.",
+      "aspect_ratio": "21:9",
+      "is_logo": false,
+      "url": "https://static.kite.ai/image/upload/app/b12484dd-3f8d-4153-82f4-9d2296905e6f/iter1/iter1-article-hero.png"
+    }
+  ],
+  "fonts": {
+    "hero": "Manrope",
+    "heading": "Manrope",
+    "sub_heading": "Inter",
+    "body": "Inter"
+  }
+}
