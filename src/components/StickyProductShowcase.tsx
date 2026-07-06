@@ -41,7 +41,7 @@ export function StickyProductShowcase() {
           <div className="grid md:grid-cols-2 gap-8">
             {/* Revenue Forecasting */}
             <div className="bg-[#111] border border-white/10 rounded-2xl p-6 flex flex-col h-[320px]">
-              <div className={`text-white font-medium text-lg tracking-tight mb-1 ${headingFont.className}`}>Revenue Forecasting</div>
+              <div className={`text-white font-medium text-lg tracking-tight mb-1 ${headingFont.className}`}>Revenue Forecast</div>
               <div className="text-xs text-gray-500 mb-8 uppercase tracking-widest">Q4 Projection</div>
               <div className="flex-1 relative border-b border-l border-white/10 mb-4">
                 <svg className="absolute inset-0 w-full h-full" preserveAspectRatio="none" viewBox="0 0 100 100">

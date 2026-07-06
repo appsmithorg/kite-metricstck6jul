@@ -12,7 +12,7 @@ export const productShowcase = [
     description: "Understand user retention over time with multi-dimensional cohort tables."
   },
   {
-    title: "Revenue Forecasting",
+    title: "Revenue Forecast",
     description: "Predict future MRR based on historical growth and churn velocity."
   },
   {
