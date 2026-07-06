@@ -23,7 +23,7 @@ export function HomeHero() {
             Start free
           </Link>
           <Link href="/" className="px-8 py-4 bg-transparent border border-white/20 text-white rounded-full font-medium text-lg hover:bg-white/5 transition-colors w-full sm:w-auto">
-            Explore product
+            Explore products
           </Link>
         </div>
       </div>
